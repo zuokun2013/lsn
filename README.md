@@ -1,0 +1,2 @@
+# lsn
+logseq notes
